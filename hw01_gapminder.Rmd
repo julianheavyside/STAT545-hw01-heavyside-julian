@@ -1,0 +1,13 @@
+---
+title: "hw01"
+author: "Julian Heavyside"
+date: "September 18, 2017"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+library(gapminder)
+```
+
+
