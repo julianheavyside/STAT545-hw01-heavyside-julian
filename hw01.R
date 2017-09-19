@@ -1,3 +1,0 @@
-library(gapminder)
-library(tidyverse)
-
