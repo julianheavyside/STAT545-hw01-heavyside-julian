@@ -18,8 +18,9 @@ See my other work by clicking [here](https://github.com/julianheavyside?tab=repo
 
 - [ ] create new repo
 - [ ] edit README.md
-- [ ] add rmd and md for Gapminder
-- [ ] reflect on feelings and stuff
+- [ ] add R Markdown file, and set output to Markdown as well
+- [ ] do some things to gapminder data in the markdown document
+- [ ] reflect on feelings
 
 ### My process
 
@@ -29,5 +30,5 @@ After creating my repo, I made a few basic changes to my README.md file in the b
 
 **R Markdown document**
 
-
+Creating the R Markdown file, and doing some basic exploration of the gapminder dataset was straightforward. I struggled to set the output to include a Markdown file, and it remains incomplete. I tried setting the output to github_document, and I tried setting the output to html_document, with the keep_md: true option added. No luck!
 
