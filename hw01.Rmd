@@ -2,7 +2,9 @@
 title: "hw01"
 author: "Julian Heavyside"
 date: "September 18, 2017"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
