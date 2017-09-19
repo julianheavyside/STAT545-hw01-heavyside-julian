@@ -30,5 +30,5 @@ After creating my repo, I made a few basic changes to my README.md file in the b
 
 **R Markdown document**
 
-Creating the R Markdown file, and doing some basic exploration of the gapminder dataset was straightforward. I struggled to set the output to include a Markdown file, and it remains incomplete. I tried setting the output to github_document, and I tried setting the output to html_document, with the keep_md: true option added. No luck!
+Creating the R Markdown file, and doing some basic exploration of the gapminder dataset was straightforward. I struggled to set the output to include a Markdown file. At first, I tried setting the output to github_document, and I tried setting the output to html_document, with the keep_md: true option added. Finally, I realized I also had to knit the document! One magic click and it all happened. Hopefully that is what you all wanted from me. 
 
