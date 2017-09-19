@@ -18,7 +18,7 @@ See my other work by clicking [here](https://github.com/julianheavyside?tab=repo
 
 - [X] create new repo
 - [X] edit README.md
-- [ ] add R Markdown file, and set output to Markdown as well
+- [X] add R Markdown file, and set output to Markdown as well
 - [X] do some things to gapminder data in the markdown document
 - [X] reflect on feelings
 
