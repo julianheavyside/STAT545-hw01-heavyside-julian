@@ -10,4 +10,21 @@ library(tidyverse)
 library(gapminder)
 ```
 
+First looks at what the gapminder dataset is
+
+```{r}
+
+class(gapminder)
+names(gapminder)
+summary(gapminder)
+
+```
+
+a basic plot of some things (population through time, for Canada)
+
+```{r}
+gapminder %>% 
+  filter(country == "Canada") %>% 
+  plot(pop ~ year, .)
+```
 
