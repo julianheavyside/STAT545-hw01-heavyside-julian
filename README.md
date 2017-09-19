@@ -25,7 +25,7 @@ See my other work by clicking [here](https://github.com/julianheavyside?tab=repo
 
 **README.md file**
 
-After creating my repo, I made a few basic changes to my README.md file in the browser. Then, I created a new RStudio project with version control, and pulled the content of the repo to the local project. I made several more changes (added some photos, changed font size and italicized some things) to the README.md file locally with RStudio, then committed and pushed to github.com
+After creating my repo, I made a few basic changes to my README.md file in the browser. Then, I created a new RStudio project with version control, and pulled the content of the repo to the local project. I made several more changes (added some photos, changed font size and italicized some things) to the README.md file locally using RStudio, then committed and pushed to github.com
 
 **R Markdown document**
 
