@@ -1,4 +1,4 @@
-# This is my repo for the first homework assignment for STAT 545
+# STAT 545 Homework Assignment 1
 
 
 ### My name is Julian Heavyside, and I'm a grad student in the Zoology Department here at UBC.
