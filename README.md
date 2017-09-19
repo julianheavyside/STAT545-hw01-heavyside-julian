@@ -16,11 +16,11 @@ See my other work by clicking [here](https://github.com/julianheavyside?tab=repo
 
 ## Tasks for this assignment
 
-- [ ] create new repo
-- [ ] edit README.md
+- [X] create new repo
+- [X] edit README.md
 - [ ] add R Markdown file, and set output to Markdown as well
-- [ ] do some things to gapminder data in the markdown document
-- [ ] reflect on feelings
+- [X] do some things to gapminder data in the markdown document
+- [X] reflect on feelings
 
 ### My process
 
